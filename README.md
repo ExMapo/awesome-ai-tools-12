@@ -104,6 +104,7 @@ In 2025, **AI isn't just a tool—it's your competitive advantage.** While other
 ### Writing Assistants
 - **[Claude](https://claude.ai/)** ⭐⭐⭐⭐⭐ - Best for long-form content, technical writing, and analysis. Excellent for documentation.
 - **[ChatGPT](https://chat.openai.com/)** ⭐⭐⭐⭐⭐ - General purpose. GPT-4 is excellent for everything. `$20/month`
+- **[Grok](https://x.ai/)** ⭐⭐⭐⭐ - X/Twitter's AI with real-time data access. Great for current events and trending topics. `Included with X Premium+`
 - **[Grammarly](https://www.grammarly.com/)** ⭐⭐⭐⭐ - Grammar, tone, and clarity. Browser extension available. `Free + Paid`
 - **[Notion AI](https://www.notion.so/product/ai)** ⭐⭐⭐⭐ - Built into Notion. Great for notes and docs. `$10/month`
 
